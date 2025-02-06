@@ -1,0 +1,2 @@
+spaCy: SpaCy is known for its high speed and efficiency. The developers Honnibal and Montani have optimized the library to quickly process large amounts of text data. 
+NLTK: NLTK offers a solid performance, but tends to be slower than spaCy, especially when processing large amounts of text.
