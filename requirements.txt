@@ -4,3 +4,4 @@ numpy
 pandas
 openpyxl
 scikit-learn
+gensim # word2vec (Google pretrained model)
